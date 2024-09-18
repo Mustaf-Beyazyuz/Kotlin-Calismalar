@@ -18,7 +18,7 @@ fun foo(a : Int)
   if(bar())
 
   else
-    print("sayı tek")
+    print("sayı tek");
 
 }
 
